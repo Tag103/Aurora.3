@@ -137,6 +137,9 @@
 	ammo_type = /obj/item/ammo_casing/shotgun/pellet
 	cycle_anim = FALSE
 
+/obj/item/gun/projectile/shotgun/pump/combat/sol/slugs
+	ammo_type = /obj/item/ammo_casing/shotgun
+
 /obj/item/gun/projectile/shotgun/doublebarrel
 	name = "double-barreled shotgun"
 	desc = "A true classic."
