@@ -258,7 +258,7 @@
 	item_state = "sapk"
 
 /obj/item/clothing/head/beret/sol
-	name = "green solarian marine beret"
+	name = "solarian marine beret"
 	desc = "A green beret with an attached badge bearing the insignia of a Solarian marine detachment."
 	icon_state = "sol"
 	item_state = "sol"
