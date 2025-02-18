@@ -39,12 +39,13 @@
 	name = "Sol Alliance Assets (Group)"
 	desc = "A crate containing gear for a group. The voidsuits and the hardsuit are only usable by humans."
 	path = /obj/structure/closet/crate/secure/gear_loadout/sol
+	telecrystal_cost = 50
 
 /datum/uplink_item/item/gear_loadout/sol_single
 	name = "Sol Alliance Assets (Single)"
 	desc = "A crate containing gear for a single individual. The voidsuit is only usable by humans."
 	path = /obj/structure/closet/crate/secure/gear_loadout/sol_single
-	telecrystal_cost = 10
+	telecrystal_cost = 15
 
 /datum/uplink_item/item/gear_loadout/dominia
 	name = "Empire of Dominia Assets (Group)"
