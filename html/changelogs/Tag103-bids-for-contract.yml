@@ -3,4 +3,4 @@ author: Tag103
 delete-after: True
 
 changes:
-  - bugfix: "The Solarian submachine gun no longer inherits the extended description intended for the submachine gun."
+  - bugfix: "The Solarian submachine gun no longer inherits the extended description intended for the submachine gun, which it is a subtype of."
